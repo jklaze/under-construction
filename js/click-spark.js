@@ -66,7 +66,7 @@ class ClickSpark extends HTMLElement {
         
         svg {
           pointer-events: none;
-          position: fixed;
+          position: absolute;
           top: -100%;
           left: -100%;
           rotate: -20deg;
